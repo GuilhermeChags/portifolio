@@ -154,6 +154,11 @@ body {
         flex-direction: column-reverse;
      }
 
+    .apresentacao__links__link{
+        width: 50vw;
+        height: 53px;
+     }
+
      .apresentacao__conteudo{
         width: auto;
      }
